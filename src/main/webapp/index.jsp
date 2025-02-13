@@ -12,6 +12,7 @@
 <p>after adding java project</p>
 <p>this is changes of project</p>
 <a href="about.jsp">About page</a>
+<a href="service.jsp">this is service page</a>
 
 </body>
 </html>
