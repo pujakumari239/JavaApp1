@@ -10,6 +10,7 @@
 <h1>this is main page</h1>
 <p>going to deploy this page on server </p>
 <p>after adding java project</p>
+<p>this is changes of project</p>
 <a href="about.jsp">About page</a>
 
 </body>
